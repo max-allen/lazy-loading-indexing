@@ -1,0 +1,5 @@
+[00:00:01.147] Server  LOG     ✓ Ready in 783ms
+[53:02:04.153] Server  LOG     ○ Compiling /_not-found/page ...
+[56:16:11.039] Server  INFO    [api/data] mode=summary cached=false patients=1144 returned=1144 totalMs=11362 summaryMs=11361
+[56:16:26.883] Server  INFO    [api/data] mode=summary cached=true patients=1144 returned=1144 totalMs=1 summaryMs=1
+[56:16:29.383] Server  INFO    [api/data] mode=summary cached=true patients=1144 returned=1144 totalMs=1 summaryMs=0
